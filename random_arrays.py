@@ -33,4 +33,4 @@ np_stud_stats = np.column_stack((np_class_room_updated, np_lifestyle))
 # print the result
 print(np_stud_stats)
 
-# Filtering all the healthy and obese students
+# Filtering all the healthy and obese students (TBC)
